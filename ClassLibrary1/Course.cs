@@ -13,9 +13,5 @@ namespace ClassLibrary1
             Name = name;
         }
 
-        public Course()
-        {
-            
-        }
     }
 }
