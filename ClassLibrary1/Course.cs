@@ -12,5 +12,10 @@ namespace ClassLibrary1
             Package = package;
             Name = name;
         }
+
+        public Course()
+        {
+            
+        }
     }
 }
