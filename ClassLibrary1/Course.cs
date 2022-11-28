@@ -6,10 +6,11 @@ namespace ClassLibrary1
         public int Package;
         public string Name;
 
-        public Course(int id, int package)
+        public Course(int id, int package, string name)
         {
             Id = id;
             Package = package;
+            Name = name;
         }
 
     }
